@@ -15,6 +15,8 @@ This course is an introduction to the basic principles underlying current operat
 ### Lectures:
 Attendance in the lectures is expected, and we welcome active participation.
 
+Lecture slides can be found: [Lectures](https://github.com/CprE308/lectures).
+
 ### Textbook:
 The required text for the course is [Modern Operating Systems](http://www.amazon.com/Modern-Operating-Systems-3rd-Edition/dp/0136006639) by Andrew S. Tanenbaum, 3rd Edition, (ISBN 0-13-600663-9).
 
@@ -39,7 +41,7 @@ Any cases of cheating will be dealt with the strictest possible measures allowed
 
 --------------
 
-### Tentative Semester Schedule:
+### Tentative Semester Schedule
  - Week 1 (Jan 13 - Jan 17): Intro/Review
  - Week 2 (Jan 20 - Jan 24): Memory / Models (No classes Monday)
  - Week 3 (Jan 27 - Jan 31): Models / Threads
@@ -57,4 +59,6 @@ Any cases of cheating will be dealt with the strictest possible measures allowed
  - Week 15 (Apr 21 - Apr 25): OS Security
  - Week 16 (Apr 28 - May 02): Advanced Topics / Review
  - Week 17 (May 05 - May 09): Finals Week
+
+A more detailed schedule can be found here: [Schedule](https://github.com/CprE308/syllabus/blob/master/schedule.md).
 
