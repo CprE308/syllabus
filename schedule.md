@@ -7,7 +7,7 @@
 |      | F Jan 17 |   "            |    "   |
 |   2  | M Jan 20 | No class - MLK |    -  |
 |      | W Jan 22 | Process Memory Basics |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture5/lecture5.html) / [PDF](https://github.com/CprE308/lectures/blog/master/lecture5/lecture5.pdf?raw=true)   |
-|      | F Jan 24 |   "            |    -   |
+|      | F Jan 24 |   Process Creation |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture6/lecture6.html) / [PDF](https://github.com/CprE308/lectures/blog/master/lecture6/lecture6.pdf?raw=true)   |
 
 
 
