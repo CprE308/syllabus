@@ -9,6 +9,7 @@
 |      | W Jan 22 | Process Memory Basics |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture5/lecture5.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture5/lecture5.pdf?raw=true)   |
 |      | F Jan 24 |   Process Creation |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture6/lecture6.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture6/lecture6.pdf?raw=true)   |
 |   3  | M Jan 27 |   File System Interface |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture7/lecture7.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture7/lecture7.pdf?raw=true)   |
+|      | W Jan 29 |   Multiprogramming |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture8/lecture8.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture8/lecture8.pdf?raw=true)   |
 
 
 
