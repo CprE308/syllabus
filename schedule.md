@@ -15,6 +15,8 @@
 |     | W Feb 05 |   " | "  |
 |     | F Feb 07 |   User and Kernel Threads |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture12/lecture12.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture12/lecture12.pdf?raw=true)   |
 | 5   | M Feb 10 |   Mutual Exclusion |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture13/lecture13.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture13/lecture13.pdf?raw=true)   |
+|     | W Feb 12 |   "  |    "   |
+|     | F Feb 14 |   Producer/Consumer |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture15/lecture15.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture15/lecture15.pdf?raw=true)   |
 
 
 
