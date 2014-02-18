@@ -17,6 +17,9 @@
 | 5   | M Feb 10 |   Mutual Exclusion |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture13/lecture13.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture13/lecture13.pdf?raw=true)   |
 |     | W Feb 12 |   "  |    "   |
 |     | F Feb 14 |   Producer/Consumer |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture15/lecture15.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture15/lecture15.pdf?raw=true)   |
+| 6   | M Feb 17 |   " |    "   |
+|     | W Feb 19 |   Readers/Writers |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture17/lecture17.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture17/lecture17.pdf?raw=true)   |
+|     | F Feb 21 |   Dining Philosophers |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture18/lecture18.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture18/lecture18.pdf?raw=true)   |
 
 
 
