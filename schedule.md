@@ -20,6 +20,7 @@
 | 6   | M Feb 17 |   " |    "   |
 |     | W Feb 19 |   Readers/Writers |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture17/lecture17.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture17/lecture17.pdf?raw=true)   |
 |     | F Feb 21 |   Dining Philosophers |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture18/lecture18.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture18/lecture18.pdf?raw=true)   |
+|7    | M Feb 24 |   Deadlocks |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture19/lecture19.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture19/lecture19.pdf?raw=true)   |
 
 
 
