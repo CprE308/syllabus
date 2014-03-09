@@ -21,6 +21,13 @@
 |     | W Feb 19 |   Readers/Writers |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture17/lecture17.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture17/lecture17.pdf?raw=true)   |
 |     | F Feb 21 |   Dining Philosophers |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture18/lecture18.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture18/lecture18.pdf?raw=true)   |
 |7    | M Feb 24 |   Deadlocks |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture19/lecture19.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture19/lecture19.pdf?raw=true)   |
+|     | W Feb 26 |   " |    "   |
+|     | F Feb 28 |   " |    "   |
+| 8   | M Mar 03 |   " |    "   |
+|     | W Mar 05 | Review |    -   |
+|     | F Mar 07 | Midterm 1 |    -   |
+| 9   | M Mar 10 |   Process Scheduling |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture25/lecture25.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture25/lecture25.pdf?raw=true)   |
+
 
 
 
