@@ -35,6 +35,9 @@
 | 11  | M Mar 24 |  Memory Management |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture28/lecture28.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture28/lecture28.pdf?raw=true)   |
 |     | W Mar 26 |  " |    "   |
 |     | F Mar 28 |  MM: Page Replacement |    [HTML](https://rawgithub.com/CprE308/lectures/master/lecture30/lecture30.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture30/lecture30.pdf?raw=true)   |
+| 12  | M Mar 31 |  " |    "   |
+|     | W Apr 02 |  MM: Performance |     [HTML](https://rawgithub.com/CprE308/lectures/master/lecture32/lecture32.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture32/lecture32.pdf?raw=true)   |
+|     | F Apr 04 |  " |    "  |
 
 
 
