@@ -38,6 +38,7 @@
 | 12  | M Mar 31 |  " |    "   |
 |     | W Apr 02 |  MM: Performance |     [HTML](https://rawgithub.com/CprE308/lectures/master/lecture32/lecture32.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture32/lecture32.pdf?raw=true)   |
 |     | F Apr 04 |  " |    "  |
+| 13  | M Apr 07 |  File Systems Intro |     [HTML](https://rawgithub.com/CprE308/lectures/master/lecture34/lecture34.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture34/lecture34.pdf?raw=true)   |
 
 
 
