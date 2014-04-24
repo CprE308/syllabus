@@ -45,6 +45,9 @@
 |    | W Apr 16 |  FS: Disk Scheduling |     [HTML](https://rawgithub.com/CprE308/lectures/master/lecture38/lecture38.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture38/lecture38.pdf?raw=true)   |
 |    | F Apr 18 | Review |    -   |
 | 15 | M Apr 21 | Midterm 2 |    -   |
+|    | W Apr 23 |  Security Overview |     [HTML](https://rawgithub.com/CprE308/lectures/master/lecture41/lecture41.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture41/lecture41.pdf?raw=true)   |
+|    | F Apr 25 |  Security: Authentication |     [HTML](https://rawgithub.com/CprE308/lectures/master/lecture42/lecture42.html) / [PDF](https://github.com/CprE308/lectures/blob/master/lecture42/lecture42.pdf?raw=true)   |
+
 
 
 
