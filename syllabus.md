@@ -1,8 +1,9 @@
 # CprE 308 - Operating Systems: Principles and Practice
-## Spring 2014 Syllabus
+## Spring 2015 Syllabus
 
 ### Instructor:
-Brian Peck, bpeck@iastate.edu
+Jeramie Vens, vens@iastate.edu
+Office Hours: TBD
 
 ### Teaching Assistants:
 To be announced.
@@ -25,14 +26,14 @@ The required text for the course is [Modern Operating Systems](http://www.amazon
  - Lab reports are due the week after the lab, unless otherwise stated.
 
 ### Grading:
-The grading breakup will be as follows:
+The tenative grading breakup will be as follows:
 
- - Weekly labs (report & attendance): 25%
- - Programming Projects: 10%
+ - Weekly labs (report & attendance): 20%
+ - Lab final project: 15%
  - In-class quizzes based on homework: 15%
- - Final Project: 5%
- - Midterm exams: 20%
- - Final exam: 25%
+ - Midterm exams: 15% each
+ - Final exam: 20%
+ - Lecture attendence and participation: 5%
 
 ### Academic Integrity:
 All your work (including the labs) should be done individually unless otherwise specified. You are not allowed to use work done by others, or obtain the answers directly in any form (such as from the web). If you have any questions about what is allowed/not allowed, please contact the instructor or the TAs.
@@ -42,23 +43,21 @@ Any cases of cheating will be dealt with the strictest possible measures allowed
 --------------
 
 ### Tentative Semester Schedule
- - Week 1 (Jan 13 - Jan 17): Intro/Review
- - Week 2 (Jan 20 - Jan 24): Memory / Models (No classes Monday)
- - Week 3 (Jan 27 - Jan 31): Models / Threads
- - Week 4 (Feb 03 - Feb 07): Threads
- - Week 5 (Feb 10 - Feb 14): Mutual Exclusion & Semaphores
- - Week 6 (Feb 17 - Feb 21): More semaphores & Deadlock
- - Week 7 (Feb 24 - Feb 28): Deadlock
- - Week 8 (Mar 03 - Mar 07): **Midterm 1**
- - Week 9 (Mar 10 - Mar 14): Process Scheduling
- - Week 10 (Mar 17 - Mar 21): Spring Break
- - Week 11 (Mar 24 - Mar 28): Memory Management
- - Week 12 (Mar 31 - Apr 04): More Memory Management
- - Week 13 (Apr 07 - Apr 11): File Systems
- - Week 14 (Apr 14 - Apr 18): **Midterm 2**
- - Week 15 (Apr 21 - Apr 25): OS Security
- - Week 16 (Apr 28 - May 02): Advanced Topics / Review
- - Week 17 (May 05 - May 09): Finals Week
-
-A more detailed schedule can be found here: [Schedule](https://github.com/CprE308/syllabus/blob/master/schedule.md).
+ - Week 1: Intro/Review
+ - Week 2: Memory / Models (No classes Monday)
+ - Week 3: Models / Threads
+ - Week 4: Threads
+ - Week 5: Mutual Exclusion & Semaphores
+ - Week 6: More semaphores & Deadlock
+ - Week 7: Deadlock
+ - Week 8: **Midterm 1**
+ - Week 9: Process Scheduling
+ - Week 10: Spring Break
+ - Week 11: Memory Management
+ - Week 12: More Memory Management
+ - Week 13: File Systems
+ - Week 14: **Midterm 2**
+ - Week 15: OS Security
+ - Week 16: Advanced Topics / Review
+ - Week 17: Finals Week
 
