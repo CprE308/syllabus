@@ -3,12 +3,16 @@
 
 ### Instructor:
 Jeramie Vens, vens@iastate.edu
-Office Hours: TBD
+Office Hours: Mon 1-2 and Wed 11-Noon in TLA
 
 ### Teaching Assistants:
-To be announced.
 
------------
+| Name           | Email                | Section | Office Hour        |
+|:---------------|:---------------------|:--------|:------------------:|
+| Kris Hall      | pkhall@iastate.edu   | C & E   | N/A                | 
+| An Lam         | anlam@iastate.edu    | B       | N/A                |
+| Xuantong Zhang | xtzhang1@iastate.edu | A       | Thurs 10-11 in TBD |
+| Nathan Clague  | nclague@iastate.edu  | D       | Tues 2-3 in TLA    |
 
 ### Aim:
 This course is an introduction to the basic principles underlying current operating systems. Operating systems have evolved over a few decades and have led to a few well accepted abstractions. We will study those concepts and how they fit together: the purpose of an operating system, processes and threads, synchronization between multiple processes, process scheduling, deadlocks, the address space concept, virtual memory, file systems, I/O systems, security, and the basics of networking. The corresponding (weekly) labs cover the "practice" portion of the class, where the students are required to write programs which interact with the operating system, and implement simplified versions of some of the OS modules. The labs require a knowledge of the C programming language and a working knowledge of the Linux operating system, which is introduced in the first lab.
