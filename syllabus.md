@@ -11,7 +11,7 @@ Office Hours: Mon 1-2 and Wed 11-Noon in TLA
 |:---------------|:---------------------|:--------|:------------------:|
 | Kris Hall      | pkhall@iastate.edu   | C & E   | N/A                | 
 | An Lam         | anlam@iastate.edu    | B       | N/A                |
-| Xuantong Zhang | xtzhang1@iastate.edu | A       | Thurs 10-11 in TBD |
+| Xuantong Zhang | xtzhang1@iastate.edu | A       | Thurs 10-11 in Coover 3201 |
 | Nathan Clague  | nclague@iastate.edu  | D       | Tues 2-3 in TLA    |
 
 ### Aim:
