@@ -3,7 +3,7 @@
 
 ### Instructor:
 Jeramie Vens, vens@iastate.edu
-Office Hours: Mon 1-2 and Wed 11-Noon in TLA
+Office Hours: Mon 2-3 and Wed 11-Noon in TLA
 
 ### Teaching Assistants:
 
