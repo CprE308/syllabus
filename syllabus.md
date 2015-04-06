@@ -60,8 +60,8 @@ Any cases of cheating will be dealt with the strictest possible measures allowed
  - Week 11: Memory Management
  - Week 12: More Memory Management
  - Week 13: File Systems
- - Week 14: **Midterm 2**
- - Week 15: OS Security
- - Week 16: Advanced Topics / Review
- - Week 17: Finals Week
+ - Week 14: OS Security
+ - Week 15: **Midterm 2:** April 24, 2015
+ - Week 16: *Deadweek:* Advanced Topics / Review
+ - Week 17: **Final Exam:** May 4, 2015; 7:30-9:30 AM
 
