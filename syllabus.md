@@ -30,7 +30,7 @@ The required text for the course is [Modern Operating Systems](http://www.amazon
  - Lab reports are due the week after the lab, unless otherwise stated.
 
 ### Grading:
-The tenative grading breakup will be as follows:
+The tenative grading breakup will be as follows (was changed, see below):
 
  - Weekly labs (report & attendance): 20%
  - Lab final project: 15%
@@ -38,6 +38,29 @@ The tenative grading breakup will be as follows:
  - Midterm exams: 15% each
  - Final exam: 20%
  - Lecture attendence and participation: 5%
+
+The **final** grading breakup was as follows:
+
+ - Weekly labs: 25%
+ - lab final project: 10%
+ - Quizzes: 15%
+ - Midterm exams: 16% each
+ - Final exam: 18%
+ - Participation: 5%
+
+Grade Breakdown:
+ - A: 93%
+ - A-: 88%
+ - B+: 83%
+ - B: 77%
+ - B-: 74%
+ - C+: 71%
+ - C: 66%
+ - C-: 63%
+ - D+: 60%
+ - D: 55%
+ - D-: 53%
+ - F: < 53%
 
 ### Academic Integrity:
 All your work (including the labs) should be done individually unless otherwise specified. You are not allowed to use work done by others, or obtain the answers directly in any form (such as from the web). If you have any questions about what is allowed/not allowed, please contact the instructor or the TAs.
